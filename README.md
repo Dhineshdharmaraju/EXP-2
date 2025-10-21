@@ -58,10 +58,14 @@ Model graph:![20251021_112934](https://github.com/user-attachments/assets/bd62f6
 
 Calculation: 
 
-Open circuit characteristics
+Open circuit characteristics:<img width="482" height="664" alt="Screenshot 2025-10-21 132202" src="https://github.com/user-attachments/assets/13ae5e20-99cc-4436-9e52-8f768fbcde81" />
+<img width="377" height="780" alt="Screenshot 2025-10-21 132241" src="https://github.com/user-attachments/assets/ba43d8db-725d-4625-bef3-070bf5cc41b1" />
+
 
   
-Load Characteristics:
+Load Characteristics:<img width="587" height="750" alt="Screenshot 2025-10-21 132136" src="https://github.com/user-attachments/assets/28eab8dc-58b8-412f-afb0-04193c7bf477" />
+<img width="552" height="749" alt="Screenshot 2025-10-21 132147" src="https://github.com/user-attachments/assets/b0379c98-ecf7-4958-ac97-7b79e8c1ff36" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
